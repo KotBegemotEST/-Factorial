@@ -1,0 +1,10 @@
+D:\vStudioProjects\factorial\factorial\bin\Debug\factorial.exe.config
+D:\vStudioProjects\factorial\factorial\bin\Debug\factorial.exe
+D:\vStudioProjects\factorial\factorial\bin\Debug\factorial.pdb
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.csprojAssemblyReference.cache
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.Form1.resources
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.Properties.Resources.resources
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.csproj.GenerateResource.cache
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.exe
+D:\vStudioProjects\factorial\factorial\obj\Debug\factorial.pdb
